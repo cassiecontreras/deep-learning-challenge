@@ -104,7 +104,7 @@ Design a neural network model, and be sure to adjust for modifications that will
 
 Save and export your results to an HDF5 file. Name the file AlphabetSoupCharity_Optimization.h5.
 
-Step 4: Write a Report on the Neural Network Model
+## Step 4: Write a Report on the Neural Network Model
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for Alphabet Soup.
 
 The report should contain the following:
@@ -124,7 +124,8 @@ How many neurons, layers, and activation functions did you select for your neura
 Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-Step 5: Copy Files Into Your Repository
+
+## Step 5: Copy Files Into Your Repository
 Now that you're finished with your analysis in Google Colab, you need to get your files into your repository for final submission.
 
 Download your Colab notebooks to your computer.
